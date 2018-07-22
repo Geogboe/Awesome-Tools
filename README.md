@@ -25,6 +25,11 @@ https://beakerbrowser.com/
 - p2p based web browser
 - I haven't actually tried it but I love the concept. Uses something call Dat
 
+#### Hyper
+https://hyper.is/#installation
+Electron based terminal emulator for windows mac and linux. 
+Great idea and well designed but major shortcommings such as can't Ctrl+c on windows. 
+
 #### Kap
 https://getkap.co/
 Opensource screen recorder with gif support. 
