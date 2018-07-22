@@ -44,3 +44,8 @@ I haven't tried it yet but various node tutorial seems to be recommending it ove
 https://scoop.sh/
 Package manager for windows the resembles the simplicity of brew
 Seems to be cleaner than Chocolatey though only supports portable packages
+
+#### Boostnote
+https://boostnote.io/#download
+Electron based notetaking tool
+We need a onenote alternative soo bad. It's <insert year here> and they still don't support include code snippets and markdown. 
