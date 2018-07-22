@@ -1,9 +1,21 @@
 # Awesome Tools
 *That I don't want to accidentally forget about.*
 
-- **Autohotkey** - Awesome tools for building hotkeys
-  - [Site](https://autohotkey.com/)
-  - [Source Code ](https://github.com/Lexikos/AutoHotkey_L)
-- **Pulover’s Macro Creator** - Useful for testing and debugging Autohotkey scripts
-  - [Site](http://www.macrocreator.com/)
-  - [Source Code ](https://github.com/Pulover/PuloversMacroCreator)
+#### Autohotkey
+https://autohotkey.com/
+What is it: Awesome tools for building hotkeys
+Why I like it: 
+- Open source and free
+- Relatively easy to learn
+- portable
+
+#### Pulover’s Macro Creator
+http://www.macrocreator.com
+https://github.com/Pulover/PuloversMacroCreator)
+What is it: Useful for testing and debugging Autohotkey scripts
+Why I like it: I don't really but it can be useful for debugging autohotkey scripts.
+  
+#### Typora
+https://typora.io/#windows
+What is it: Clean, gorgeous markdown editor that doesn't require an account: 
+Why I like it: Easy install. Realtime markdown editing. Really it should replace word. 
