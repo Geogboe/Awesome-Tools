@@ -25,3 +25,17 @@ https://beakerbrowser.com/
 - p2p based web browser
 - I haven't actually tried it but I love the concept. Uses something call Dat
 
+#### Kap
+https://getkap.co/
+Opensource screen recorder with gif support. 
+Haven't tried it yet but seems like it will be really useful for documentation purposes.
+
+#### yarn
+https://yarnpkg.com/en/
+Dependency management for node development
+I haven't tried it yet but various node tutorial seems to be recommending it over npm
+
+### Scope
+https://scoop.sh/
+Package manager for windows the resembles the simplicity of brew
+Seems to be cleaner than Chocolatey though only supports portable packages
