@@ -19,3 +19,9 @@ Why I like it: I don't really but it can be useful for debugging autohotkey scri
 https://typora.io/#windows
 What is it: Clean, gorgeous markdown editor that doesn't require an account: 
 Why I like it: Easy install. Realtime markdown editing. Really it should replace word. 
+
+#### Beaker Browser
+https://beakerbrowser.com/
+- p2p based web browser
+- I haven't actually tried it but I love the concept. Uses something call Dat
+
